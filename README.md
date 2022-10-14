@@ -1,4 +1,4 @@
-# Python_IZT2_lab3
+# Python_IZT2_lab4
 
 ![Screenshot](screenshot.png)
 
